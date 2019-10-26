@@ -6,8 +6,8 @@ Citizen.CreateThread(function()
 
                 SetTextFont(1) --[הפונט של הטקסט מוזמנים לשנות מ1 עד ל 12]
                 SetTextProportional(1)
-                SetTextScale(0.0, 0.3) --[לא לגעת]--
-                SetTextColour(128, 128, 128, 255) --[צבע הטקסט(RGB COLORS)]
+                SetTextScale(0.0, 0.7) --[שינוי גודל הטקסט]--
+                SetTextColour(245, 128, 128, 255) --[צבע הטקסט(RGB COLORS)]
                 SetTextDropshadow(0, 0, 0, 0, 255) --[הצל שהטקסט ינפיק]--
                 SetTextEdge(1, 0, 0, 0, 255)
                 SetTextDropShadow()
