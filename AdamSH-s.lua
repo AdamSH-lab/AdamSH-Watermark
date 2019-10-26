@@ -1,0 +1,1 @@
+print('^2loaded successfully: ^5AdamSH ^5WaterMark')
