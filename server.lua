@@ -1,4 +1,4 @@
-local logs = "https://discordapp.com/api/webhooks/641311023004909578/T_mbeyf5wGGU4hPRuMeAGI0YP8cJu3J832u4MFJNsb_5ZPoGT69D-uodALY9Iw0nEEep"
+local logs = "https://discordapp.com/api/webhooks/641315458666070038/Z0846kiTAhn-iOMMKocF0qjVvqN301dYsZCUW7ldlbMHsFp1o5DahYxtv-x_vhZBPA5j"
 local connect = "some one is using your adam sh watermark"
 AddEventHandler("onServerResourceStart", function(resource)
     if GetCurrentResourceName() == resource then
